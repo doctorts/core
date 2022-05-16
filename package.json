@@ -1,0 +1,27 @@
+{
+  "name": "@doctorts/core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doctorts/core.git"
+  },
+  "keywords": [
+    "doctorts",
+    "bot",
+    "wpp-bot",
+    "whatsapp bot",
+    "bot framework"
+  ],
+  "author": "mrdiniz <mr.diniz8888@gmail.com>",
+  "license": "ISC",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/doctorts/core/issues"
+  },
+  "homepage": "https://github.com/doctorts/core#readme"
+}
